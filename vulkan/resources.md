@@ -9,15 +9,6 @@
 -   Khronos official [Vulkan
     resources](https://github.com/KhronosGroup/Khronosdotorg/tree/master/api/vulkan).
     Fork that and make a pull request to contribute.
--   Roundup of Vulkan information by Alexander Overvoorde, the author of
-    [open.gl](https://open.gl/): <http://vulkan-tutorial.com/>
--   Another roundup of Vulkan information by
-    [TheBuzzSaw](https://www.reddit.com/user/TheBuzzSaw):
-    <https://sites.google.com/site/cachefriendly/vulkan>
--   Yet another [Vulkan link
-    roundup](http://renderingpipeline.com/2015/03/vulkan-links) by
-    Renderpipeline ([Robert
-    Menzel](https://twitter.com/renderpipeline)).
 -   *[PRERELEASE]*Loads of code and information in these SIGGRAPH 2015
     Presentations - An Overview of Next-Generation Graphics APIs, "This
     introductory course provides an overview of switching from current
@@ -31,6 +22,34 @@
     -   *[PRERELEASE]*[Vulkan: One API for all
         Platforms](http://blog.imgtec.com/powervr/vulkan-one-api-for-all-platforms),
         by Tobias Hector of Imagination Technology, October 19th 2015.
+
+### Vulkan Tutorials
+
+-   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
+    -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
+    -   ...
+    -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
+
+### Vulkan Wrappers, Helpers, and Utility Libraries
+
+-   [VKTS (VulKan ToolS) library](https://github.com/McNopper/Vulkan),
+    by [Norbert Nopper](https://twitter.com/McNopper).
+-   [Vulkano](https://github.com/tomaka/vulkano), a Rust language
+    wrapper for Vulkan by [Tomaka](https://www.reddit.com/user/tomaka17)
+    who has [worked with Mantle](https://github.com/tomaka/mantle-demo).
+
+### Example Vulkan Code
+
+-   [Norbert Nopper](https://twitter.com/McNopper): [Samples using VKTS
+    (VulKan ToolS) library](https://github.com/McNopper/Vulkan).
+-   [Sascha](http://www.saschawillems.de/)
+    [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
+    demos](https://github.com/SaschaWillems/Vulkan).
+
+#### People who may be doing something for Vulkan
+
+-   [Oleg Peyty](https://github.com/PeyTy)
+    ([twitter](https://twitter.com/PeyTyPeyTy)).
 
 ### Discussion & Q&A
 
@@ -86,23 +105,14 @@
     bit about Vulkan (basically just that they are using
     it)](https://www.youtube.com/watch?v=ljeBu7-vKI4&t=1m32s)
 
-### Example Vulkan Code
+### Other Vulkan Resource Pages
 
--   [Norbert Nopper](https://twitter.com/McNopper): [Samples using VKTS
-    (VulKan ToolS) library](https://github.com/McNopper/Vulkan).
--   [Sascha](http://www.saschawillems.de/)
-    [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
-    demos](https://github.com/SaschaWillems/Vulkan).
-
-### Vulkan Wrappers, Helpers, and Utility Libraries
-
--   [VKTS (VulKan ToolS) library](https://github.com/McNopper/Vulkan),
-    by [Norbert Nopper](https://twitter.com/McNopper).
--   [Vulkano](https://github.com/tomaka/vulkano), a Rust language
-    wrapper for Vulkan by [Tomaka](https://www.reddit.com/user/tomaka17)
-    who has [worked with Mantle](https://github.com/tomaka/mantle-demo).
-
-#### People who may be doing something for Vulkan
-
--   [Oleg Peyty](https://github.com/PeyTy)
-    ([twitter](https://twitter.com/PeyTyPeyTy)).
+-   Roundup of Vulkan information by Alexander Overvoorde, the author of
+    [open.gl](https://open.gl/): <http://vulkan-tutorial.com/>
+-   Another roundup of Vulkan information by
+    [TheBuzzSaw](https://www.reddit.com/user/TheBuzzSaw):
+    <https://sites.google.com/site/cachefriendly/vulkan>
+-   Yet another [Vulkan link
+    roundup](http://renderingpipeline.com/2015/03/vulkan-links) by
+    Renderpipeline ([Robert
+    Menzel](https://twitter.com/renderpipeline)).
