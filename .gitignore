@@ -1,3 +1,9 @@
+# Vim temporaries
+.*.swp
+.*.swo
+.*.swn
+.*.swm
+
 # Compiled Object files
 *.slo
 *.lo
