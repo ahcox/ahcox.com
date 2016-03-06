@@ -1,0 +1,108 @@
+
+
+-   Main Khronos Vulkan page: <https://www.khronos.org/vulkan>, and
+    [resources page](https://www.khronos.org/vulkan/resources).
+-   The official Valve and LunarG Vulkan
+    SDK: <http://lunarg.com/vulkan/>
+-   Official assembler/disassembler for SPIR-V, the portable binary IR
+    for Vulkan Shaders: <https://github.com/KhronosGroup/SPIRV-Tools/>
+-   Khronos official [Vulkan
+    resources](https://github.com/KhronosGroup/Khronosdotorg/tree/master/api/vulkan).
+    Fork that and make a pull request to contribute.
+-   Roundup of Vulkan information by Alexander Overvoorde, the author of
+    [open.gl](https://open.gl/): <http://vulkan-tutorial.com/>
+-   Another roundup of Vulkan information by
+    [TheBuzzSaw](https://www.reddit.com/user/TheBuzzSaw):
+    <https://sites.google.com/site/cachefriendly/vulkan>
+-   Yet another [Vulkan link
+    roundup](http://renderingpipeline.com/2015/03/vulkan-links) by
+    Renderpipeline ([Robert
+    Menzel](https://twitter.com/renderpipeline)).
+-   *[PRERELEASE]*Loads of code and information in these SIGGRAPH 2015
+    Presentations - An Overview of Next-Generation Graphics APIs, "This
+    introductory course provides an overview of switching from current
+    to next-gen APIs; discusses similarities between next-gen APIs;
+    covers basic API details for DirectX12, Vulkan, etc.; explores
+    specific case studies from developers working with these APIs":
+    <http://nextgenapis.realtimerendering.com/>
+-   *[PRERELEASE]*[Imagination Technology Vulkan
+    Webinars](http://blog.imgtec.com/powervr/5-new-webinars-on-the-vulkan-api)
+    (Videos and blog posts)
+    -   *[PRERELEASE]*[Vulkan: One API for all
+        Platforms](http://blog.imgtec.com/powervr/vulkan-one-api-for-all-platforms),
+        by Tobias Hector of Imagination Technology, October 19th 2015.
+
+### Discussion & Q&A
+
+-   NVIDIA Gameworks [Vulkan
+    Board](https://devtalk.nvidia.com/default/board/166/)
+-   The [official
+    forum](https://www.khronos.org/message_boards/forumdisplay.php/114-Vulkan-High-Efficiency-GPU-Graphics-and-Compute).
+-   Stack Overflow [Vulkan
+    tag](http://stackoverflow.com/questions/tagged/vulkan)
+-   Reddit [/r/vulkan](https://www.reddit.com/r/vulkan/).
+
+### Videos
+
+#### Technical Videos
+
+#### Other Videos
+
+#### Prerelease Videos
+
+-   November 2015, [Vulkan: Scaling to multiple
+    threads](https://www.youtube.com/watch?v=s3ub6iVThro&t=2m35s), by
+    Tobias Hector of Imagination Technologies
+-   November 2015, [Vulkan: High efficiency on
+    mobile](https://www.youtube.com/watch?v=4exq7Pb0XRo), by Tobias
+    Hector of Imagination Technologies
+-   October 2015, [Vulkan: One API for all
+    platforms](https://www.youtube.com/watch?v=eDp7CFw-UPE), by Tobias
+    Hector of Imagination Technologies
+-   [August 2015, Vulkan on NVIDIA GPUs, by Piers
+    Daniell](https://www.youtube.com/watch?v=NqensKmmRfE)
+-   [August 2015, 3D Graphics API State of the Union, Vulkan Status
+    Update at
+    SIGGRAPH](https://www.youtube.com/watch?v=quNsdYfWXfM&t=55m21s)
+-   [March 2015, Vulkan and SPIR-V Session at
+    GDC](https://www.youtube.com/watch?v=qKbtrVEhaw8)
+-   [March 2015, Vulkan - The Future of High Performance Graphics, at
+    GDC](https://www.youtube.com/watch?v=QF7gENO6CI8&)
+    -   [Johan Andersson, Introducing
+        Vulkan](https://www.youtube.com/watch?v=QF7gENO6CI8&t=03m10s)
+    -   [Pierre-Loup Griffais of Valve on High Level Concepts in
+        Vulkan](https://www.youtube.com/watch?v=QF7gENO6CI8&t=08m42s)
+    -   [Dan Baker on Vulkan and Many
+        Threads](https://www.youtube.com/watch?v=QF7gENO6CI8&t=20m0s)
+    -   [Niklas Smedberg of Epic Games, Vulkan Binding
+        Model](https://www.youtube.com/watch?v=QF7gENO6CI8&t=32m38s)
+    -   [Aras Pranckevičius of Unity on Vulkan shaders and
+        SPIR-V](https://www.youtube.com/watch?v=QF7gENO6CI8&t=39m36s)
+    -   [John McDonald of Valve on Layers, Loader, SDK, and tools for
+        Vulkan line the GLAVE
+        debugger](https://www.youtube.com/watch?v=QF7gENO6CI8&t=50m33s)
+    -   [Q&A](https://www.youtube.com/watch?v=QF7gENO6CI8&t=63m35s)
+-   [March 2015, Oxide Games Show Their Game, Engine, and a only a tiny
+    bit about Vulkan (basically just that they are using
+    it)](https://www.youtube.com/watch?v=ljeBu7-vKI4&t=1m32s)
+
+### Example Vulkan Code
+
+-   [Norbert Nopper](https://twitter.com/McNopper): [Samples using VKTS
+    (VulKan ToolS) library](https://github.com/McNopper/Vulkan).
+-   [Sascha](http://www.saschawillems.de/)
+    [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
+    demos](https://github.com/SaschaWillems/Vulkan).
+
+### Vulkan Wrappers, Helpers, and Utility Libraries
+
+-   [VKTS (VulKan ToolS) library](https://github.com/McNopper/Vulkan),
+    by [Norbert Nopper](https://twitter.com/McNopper).
+-   [Vulkano](https://github.com/tomaka/vulkano), a Rust language
+    wrapper for Vulkan by [Tomaka](https://www.reddit.com/user/tomaka17)
+    who has [worked with Mantle](https://github.com/tomaka/mantle-demo).
+
+#### People who may be doing something for Vulkan
+
+-   [Oleg Peyty](https://github.com/PeyTy)
+    ([twitter](https://twitter.com/PeyTyPeyTy)).
