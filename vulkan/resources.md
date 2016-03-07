@@ -23,6 +23,12 @@
         Platforms](http://blog.imgtec.com/powervr/vulkan-one-api-for-all-platforms),
         by Tobias Hector of Imagination Technology, October 19th 2015.
 
+### Vulkan Primers
+-   [Baldurk's Introduction to Vulkan](https://renderdoc.org/vulkan-in-30-minutes.html)
+-   [Henri Tuhola's Vulkan API Overview](http://boxbase.org/entries/2016/feb/22/vulkan-api-overview)
+    -    [Rendering Primitives](http://boxbase.org/entries/2016/feb/29/vulkan-api-overview-2)
+    -    [Pipeline Barriers](http://boxbase.org/entries/2016/mar/7/vulkan-api-overview-3)
+
 ### Vulkan Tutorials
 
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
