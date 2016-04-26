@@ -123,3 +123,5 @@
     Renderpipeline ([Robert
     Menzel](https://twitter.com/renderpipeline)).
 -   jcoder58's [Vulkan Resources](https://github.com/jcoder58/VulkanResources).
+
+[Edit this page](https://github.com/ahcox/ahcox.com/edit/master/vulkan/resources.md).
