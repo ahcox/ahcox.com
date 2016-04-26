@@ -122,4 +122,4 @@
     roundup](http://renderingpipeline.com/2015/03/vulkan-links) by
     Renderpipeline ([Robert
     Menzel](https://twitter.com/renderpipeline)).
--   jcoder58's [Vulkan Resources](https://github.com/jcoder58/VulkanResources)
+-   jcoder58's [Vulkan Resources](https://github.com/jcoder58/VulkanResources).
