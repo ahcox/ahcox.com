@@ -52,6 +52,9 @@
     [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
     demos](https://github.com/SaschaWillems/Vulkan).
 
+### Projects Using Vulkan
+-   [Hatchit](https://github.com/thirddegree/Hatchit): Open Source 3D Game Engine rendering through Vulkan and DX12. [Vukan Headers](https://github.com/thirddegree/HatchitGraphics/tree/master/include/vulkan). [Vulkan Implementation Code](https://github.com/thirddegree/HatchitGraphics/tree/master/source/vulkan).
+
 #### People who may be doing something for Vulkan
 
 -   [Oleg Peyty](https://github.com/PeyTy)
