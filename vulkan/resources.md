@@ -9,19 +9,6 @@
 -   Khronos official [Vulkan
     resources](https://github.com/KhronosGroup/Khronosdotorg/tree/master/api/vulkan).
     Fork that and make a pull request to contribute.
--   *[PRERELEASE]*Loads of code and information in these SIGGRAPH 2015
-    Presentations - An Overview of Next-Generation Graphics APIs, "This
-    introductory course provides an overview of switching from current
-    to next-gen APIs; discusses similarities between next-gen APIs;
-    covers basic API details for DirectX12, Vulkan, etc.; explores
-    specific case studies from developers working with these APIs":
-    <http://nextgenapis.realtimerendering.com/>
--   *[PRERELEASE]*[Imagination Technology Vulkan
-    Webinars](http://blog.imgtec.com/powervr/5-new-webinars-on-the-vulkan-api)
-    (Videos and blog posts)
-    -   *[PRERELEASE]*[Vulkan: One API for all
-        Platforms](http://blog.imgtec.com/powervr/vulkan-one-api-for-all-platforms),
-        by Tobias Hector of Imagination Technology, October 19th 2015.
 
 ### Vulkan Primers
 -   [Baldurk's Introduction to Vulkan](https://renderdoc.org/vulkan-in-30-minutes.html)
@@ -70,11 +57,33 @@
     tag](http://stackoverflow.com/questions/tagged/vulkan)
 -   Reddit [/r/vulkan](https://www.reddit.com/r/vulkan/).
 
-### Videos
+### Other Vulkan Resource Pages
 
-#### Technical Videos
+-   Roundup of Vulkan information by Alexander Overvoorde, the author of
+    [open.gl](https://open.gl/): <http://vulkan-tutorial.com/>
+-   Another roundup of Vulkan information by
+    [TheBuzzSaw](https://www.reddit.com/user/TheBuzzSaw):
+    <https://sites.google.com/site/cachefriendly/vulkan>
+-   Yet another [Vulkan link
+    roundup](http://renderingpipeline.com/2015/03/vulkan-links) by
+    Renderpipeline ([Robert
+    Menzel](https://twitter.com/renderpipeline)).
+-   jcoder58's [Vulkan Resources](https://github.com/jcoder58/VulkanResources).
 
-#### Other Videos
+### Prerelease Information
+-   *[PRERELEASE]*Loads of code and information in these SIGGRAPH 2015
+    Presentations - An Overview of Next-Generation Graphics APIs, "This
+    introductory course provides an overview of switching from current
+    to next-gen APIs; discusses similarities between next-gen APIs;
+    covers basic API details for DirectX12, Vulkan, etc.; explores
+    specific case studies from developers working with these APIs":
+    <http://nextgenapis.realtimerendering.com/>
+-   *[PRERELEASE]*[Imagination Technology Vulkan
+    Webinars](http://blog.imgtec.com/powervr/5-new-webinars-on-the-vulkan-api)
+    (Videos and blog posts)
+    -   *[PRERELEASE]*[Vulkan: One API for all
+        Platforms](http://blog.imgtec.com/powervr/vulkan-one-api-for-all-platforms),
+        by Tobias Hector of Imagination Technology, October 19th 2015.
 
 #### Prerelease Videos
 
@@ -113,18 +122,5 @@
 -   [March 2015, Oxide Games Show Their Game, Engine, and a only a tiny
     bit about Vulkan (basically just that they are using
     it)](https://www.youtube.com/watch?v=ljeBu7-vKI4&t=1m32s)
-
-### Other Vulkan Resource Pages
-
--   Roundup of Vulkan information by Alexander Overvoorde, the author of
-    [open.gl](https://open.gl/): <http://vulkan-tutorial.com/>
--   Another roundup of Vulkan information by
-    [TheBuzzSaw](https://www.reddit.com/user/TheBuzzSaw):
-    <https://sites.google.com/site/cachefriendly/vulkan>
--   Yet another [Vulkan link
-    roundup](http://renderingpipeline.com/2015/03/vulkan-links) by
-    Renderpipeline ([Robert
-    Menzel](https://twitter.com/renderpipeline)).
--   jcoder58's [Vulkan Resources](https://github.com/jcoder58/VulkanResources).
 
 [Edit this resource list](https://github.com/ahcox/ahcox.com/edit/master/vulkan/resources.md).
