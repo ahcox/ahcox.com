@@ -20,7 +20,6 @@
 
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
-    -   ...
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
@@ -38,6 +37,12 @@
 -   [Sascha](http://www.saschawillems.de/)
     [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
     demos](https://github.com/SaschaWillems/Vulkan).
+
+### Presentations on Vulkan
+ - Migrating from OpenGL to Vulkan, Mark Kilgard, NVIDIA, January 19, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/Migrating_from_OpenGL_to_Vulkan.pdf)
+ - C++ API Layer on top of Vulkan, Markus Tavenrath, NVIDIA, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/Vulkan_C++.pdf)
+ - High Performance Vulkan: Lessons Learned from Source 2, John McDonald, Valve, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/High_Performance_Vulkan.pdf)
+ - Vulkan Overview and Roadmap for NVIDIA GPUs, Piers Daniell, NVIDIA, January 19 2016. [PDF](https://developer.nvidia.com/sites/default/files/akamai/gameworks/VulkanDevDaypdaniel.pdf)
 
 ### Projects Using Vulkan
 -   [Hatchit](https://github.com/thirddegree/Hatchit): Open Source 3D Game Engine rendering through Vulkan and DX12. [Vukan Headers](https://github.com/thirddegree/HatchitGraphics/tree/master/include/vulkan). [Vulkan Implementation Code](https://github.com/thirddegree/HatchitGraphics/tree/master/source/vulkan).
