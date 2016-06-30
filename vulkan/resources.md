@@ -45,6 +45,7 @@
 -   [Sascha](http://www.saschawillems.de/)
     [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
     demos](https://github.com/SaschaWillems/Vulkan).
+-   [Google Android Samples](https://github.com/googlesamples/android-vulkan-tutorials)
 
 ### Presentations on Vulkan
  - Migrating from OpenGL to Vulkan, Mark Kilgard, NVIDIA, January 19, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/Migrating_from_OpenGL_to_Vulkan.pdf)
