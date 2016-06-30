@@ -18,6 +18,11 @@
 
 ### Vulkan Tutorials
 
+-   API without Secrets: Introduction to Vulkan, by Pawel L., Intel, April 2016.
+    [Part 0: Preface](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface)
+    -   [Part1: The Beginning](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-1)
+    -   [Part2: Creating a Swapchain](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-2)
+    -   [Part3: First Triangle](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-3)
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
