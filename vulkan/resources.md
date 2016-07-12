@@ -23,6 +23,11 @@
     -   [Part 1: The Beginning](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-1)
     -   [Part 2: Creating a Swapchain](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-2)
     -   [Part 3: First Triangle](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-3)
+-   [ARM Mali Vulkan SDK Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/tutorials.html)
+    -   [Vulkan on Android](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/creatingVulkanWindow.html)
+    -   [Hello Triangle](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/helloTriangle.html)
+    -   [Multithreading in Vulkan](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/multithreading.html)
+    -   [Compute Shaders](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/basicCompute.html)
 -   José Henriques
     -   [Vulkan 101](http://av.dfki.de/~jhenriques/development.html)  
     -   [Shaders](http://av.dfki.de/~jhenriques/vulkan_shaders.html)
