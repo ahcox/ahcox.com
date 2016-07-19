@@ -22,6 +22,6 @@
   * [**C++ 14 Transducers:**](http://vitiy.info/cpp14-how-to-implement-transducers/)
     How to implement Transducers in C++ 14.
   * Implementations:
-    *  http://ableton.github.io/atria/
+         *  http://ableton.github.io/atria/
 
   
