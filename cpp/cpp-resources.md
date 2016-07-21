@@ -21,7 +21,12 @@
   * [**CppCon 15.**](https://www.youtube.com/watch?v=vohGJjGxtJQ)
   * [**C++ 14 Transducers:**](http://vitiy.info/cpp14-how-to-implement-transducers/)
     How to implement Transducers in C++ 14.
-  * Implementations:
   * [**Atria.**](http://ableton.github.io/atria/)
 
+### Large Scale C++
+* [Hourglass Interfaces for C++ APIs](https://www.youtube.com/watch?v=PVYdHDm0q6Y)
+  - **TLDW:** Export only a minimal C89 interface from your C++ shared libraries but provide a
+  full-fat C++ wrapper to be compiled into library clients.
+  - [Slides](http://www.slideshare.net/StefanusDuToit/cpp-con-2014-hourglass-interfaces-for-c-apis) ([PDF](https://github.com/CppCon/CppCon2014/raw/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs%20-%20Stefanus%20Du%20Toit%20-%20CppCon%202014.pdf))
+  - [Code](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/code)
   
