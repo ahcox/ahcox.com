@@ -5,14 +5,14 @@
   This trace can then be replayed under gbd to allow debugging,
   both forwards and efficiently backwards. 
 
-### Libraries
+### C++ Libraries
 * [**musl:**](https://www.musl-libc.org) A Linux libc implementation which is designed to be
   statically linkable as well as small, efficient, and readable.
 * [**HPX:**](https://github.com/STEllAR-GROUP/hpx)
   A parallel runtime based on advanced futures and lightweight tasks which scales from embedded devices
   to distributed clusters.
 
-### Standards Documents
+### C++ Standards Documents
 * [**Parallelism TS:**](https://github.com/cplusplus/parallelism-ts) Improvements to C++ concurrency support aimed
   at exploiting multiple cores and heterogenous compute capabilities.
 
