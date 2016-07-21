@@ -30,3 +30,5 @@
   - [Slides](http://www.slideshare.net/StefanusDuToit/cpp-con-2014-hourglass-interfaces-for-c-apis) ([PDF](https://github.com/CppCon/CppCon2014/raw/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs%20-%20Stefanus%20Du%20Toit%20-%20CppCon%202014.pdf))
   - [Code](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/code)
   
+
+*[Edit](https://github.com/ahcox/ahcox.com/edit/master/cpp/cpp-resources.md) [this page](http://ahcox.com/cpp/c-and-c-resources/)*.
