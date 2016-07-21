@@ -31,4 +31,4 @@
   - [Code](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/code)
   
 
-*[Edit](https://github.com/ahcox/ahcox.com/edit/master/cpp/cpp-resources.md) [this page](http://ahcox.com/cpp/c-and-c-resources/)*.
+*[Edit](https://github.com/ahcox/ahcox.com/edit/master/cpp/cpp-resources.md) [this page](http://ahcox.com/cpp/cpp-resources/)*.
