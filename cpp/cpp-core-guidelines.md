@@ -8,4 +8,5 @@
   and have the derived template smart pointer be a type-safe wrapper which mostly generates no additional code.
   E.g., for a generic container of pointers, have a concrete base class of void pointers which does most of the work.
 
-> [Edit](https://github.com/ahcox/ahcox.com/edit/master/cpp/cpp-core-guidelines.md), [View](http://ahcox.com/cpp/cpp-core-guidelines/)
+| [Edit](https://github.com/ahcox/ahcox.com/edit/master/cpp/cpp-core-guidelines.md) | [View](http://ahcox.com/cpp/cpp-core-guidelines/) |
+| --------------------------------------------------------------------------------- | ------------------------------------------------- |
