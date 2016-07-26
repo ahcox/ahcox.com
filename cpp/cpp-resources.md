@@ -30,5 +30,15 @@
   - [Slides](http://www.slideshare.net/StefanusDuToit/cpp-con-2014-hourglass-interfaces-for-c-apis) ([PDF](https://github.com/CppCon/CppCon2014/raw/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs%20-%20Stefanus%20Du%20Toit%20-%20CppCon%202014.pdf))
   - [Code](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/code)
   
+### C++ in the Weeds
+* `std::move`
+  - [std::move Is Not Destructive Move](https://github.com/mcalabrese/cpp-stuff/wiki/std::move-Is-Not-Destructive-Move),
+    Matt Calabrese, May 30 2014.
+    Matt points out that `std::move` is not destructive and that the object on the rhs of a move should still be
+    in a reasonable state after the move.
+    Destructive moves would actually be desireable from an efficiency point of view: after all moved from objects
+    are typically thrown away immediately post-move.
+  - [About Move](http://sean-parent.stlab.cc/2014/05/30/about-move.html),
+    Sean Parent, 2014.
 
 *[Edit](https://github.com/ahcox/ahcox.com/edit/master/cpp/cpp-resources.md) [this page](http://ahcox.com/cpp/cpp-resources/)*.
