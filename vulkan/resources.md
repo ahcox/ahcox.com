@@ -46,6 +46,8 @@
 -   [Vulkano](https://github.com/tomaka/vulkano), a Rust language
     wrapper for Vulkan by [Tomaka](https://www.reddit.com/user/tomaka17)
     who has [worked with Mantle](https://github.com/tomaka/mantle-demo).
+-   [OpenFrameworks Vulkan Renderer](https://forum.openframeworks.cc/t/vulkan-renderer/23800):
+    Provides a GL-like context interface over Vulkan.   
 
 ### Example Vulkan Code
 
