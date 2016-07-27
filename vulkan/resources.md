@@ -37,6 +37,10 @@
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
 
+-   [Khronos C++ Wrapper:](https://github.com/KhronosGroup/Vulkan-Hpp/blob/master/README.md)
+    Originally a side project of a member of the NVIDIA workstation graphics team,
+    this C++ wrapper gives a safer interface than the raw C API,
+    some help with RAII for API objects, and optional exceptions.
 -   [VKTS (VulKan ToolS) library](https://github.com/McNopper/Vulkan),
     by [Norbert Nopper](https://twitter.com/McNopper).
 -   [Vulkano](https://github.com/tomaka/vulkano), a Rust language
