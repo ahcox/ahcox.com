@@ -11,6 +11,10 @@
 * [**HPX:**](https://github.com/STEllAR-GROUP/hpx)
   A parallel runtime based on advanced futures and lightweight tasks which scales from embedded devices
   to distributed clusters.
+- [**libFuzzer:**](http://llvm.org/docs/LibFuzzer.html)
+  A Clang Tools project to do fuzz-testing for C++ based on coverage analysis.
+  I.e., throws broken inputs at your program to see if it falls over while tracking
+  which code paths are being reached.
 * [**Brigand Metaprogramming:**](https://github.com/edouarda/brigand/blob/master/README.md)
   A macro-free template metaprogramming library which relies on C++ 11 and so compiles faster than Boost::MPL
   while leading to less verbose client code. 
