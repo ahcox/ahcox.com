@@ -19,7 +19,12 @@
   A macro-free template metaprogramming library which relies on C++ 11 and so compiles faster than Boost::MPL
   while leading to less verbose client code. 
   [Eleven minute talk](https://www.youtube.com/watch?v=B8XSDhWx7hY).
-  
+
+### C++ Tools
+* [**Cling:**](https://root.cern.ch/cling)
+  An LVM-jitted REPL for C++
+  ([video](http://www.youtube.com/watch?v=f9Xfh8pv3Fs),
+  [video](http://llvm.org/devmtg/2010-11/videos/Naumann_Cling-desktop.mp4), [article](https://www.infoq.com/news/2015/05/cling-cpp-interpreter)).
 
 ### C++ Standards Documents
 * [**Parallelism TS:**](https://github.com/cplusplus/parallelism-ts) Improvements to C++ concurrency support aimed
