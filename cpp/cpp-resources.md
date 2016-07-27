@@ -11,6 +11,11 @@
 * [**HPX:**](https://github.com/STEllAR-GROUP/hpx)
   A parallel runtime based on advanced futures and lightweight tasks which scales from embedded devices
   to distributed clusters.
+* [**Brigand Metaprogramming:**](https://github.com/edouarda/brigand/blob/master/README.md)
+  A macro-free template metaprogramming library which relies on C++ 11 and so compiles faster than Boost::MPL
+  while leading to less verbose client code. 
+  [Eleven minute talk](https://www.youtube.com/watch?v=B8XSDhWx7hY).
+  
 
 ### C++ Standards Documents
 * [**Parallelism TS:**](https://github.com/cplusplus/parallelism-ts) Improvements to C++ concurrency support aimed
