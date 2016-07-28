@@ -23,6 +23,7 @@
     -   [Part 1: The Beginning](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-1)
     -   [Part 2: Creating a Swapchain](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-2)
     -   [Part 3: First Triangle](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-3)
+    -   [Part 4: Vertex Attributes – Buffers, Images, and Fences](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-4)
 -   [ARM Mali Vulkan SDK Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/tutorials.html)
     -   [Vulkan on Android](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/creatingVulkanWindow.html)
     -   [Hello Triangle](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/helloTriangle.html)
