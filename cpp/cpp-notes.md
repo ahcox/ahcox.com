@@ -14,6 +14,6 @@ The second is used to propagate memory order dependencies into and out of functi
 
 C++ 14 adds `[[deprecated]]` and C++ 17 grows the list with `[[fallthrough]]` to be used in a switch
 statement, `[[nodiscard]]`, and `[[maybe_unused]]` to suppress unused entity compiler warnings,
-while the trnsactional memory TS utilises `[[optimize_for_synchronized]]`.
+while the transactional memory TS utilises `[[optimize_for_synchronized]]`.
 All other attributes are implementation-specific, although some may be widely
 supported or at least compatible between **gcc** and **clang**.
