@@ -1,3 +1,19 @@
+### C++ 14 Binary Literals
+C++ 14 has added support for binary literals.
+I.e., you can now write out the individual ones and zeros of an integer.
+A binary literal integer is a sequence of ones and zeroes prefixed by `0b`.
+While this may sound verbose it can be useful.
+For instance, while testing a function which does some bitwise operations,
+having the bits in the test code improves readability.
+[For example](http://web.archive.org/web/20160610120206/https://codility.com/programmers/task/binary_gap/)
+when counting the longest run of zeroes bounded by ones in an integer:
+
+    REQUIRE(solution(0b10000001) == 6);
+    REQUIRE(solution(0b100000001) == 7);
+    REQUIRE(solution(0b0001110110011110001111000011111000) == 4);
+
+[_Read more_](http://web.archive.org/web/20160710191639/http://www.informit.com/articles/article.aspx?p=2209021)
+
 
 ### C++ 11 Attribute Specifiers
 C++ 11 added a construct called an _attribute_ which can be used to attach
