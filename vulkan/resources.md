@@ -30,8 +30,8 @@
     -   [Multithreading in Vulkan](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/multithreading.html)
     -   [Compute Shaders](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/basicCompute.html)
 -   José Henriques
-    -   [Vulkan 101](http://av.dfki.de/~jhenriques/development.html)  
-    -   [Shaders](http://av.dfki.de/~jhenriques/vulkan_shaders.html)
+    -   [Vulkan 101](http://www.jhenriques.net/development.html)  
+    -   [Shaders](http://www.jhenriques.net/vulkan_shaders.html)
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
