@@ -19,7 +19,7 @@
 ### Vulkan Tutorials
 
 -   API without Secrets: Introduction to Vulkan, by Pawel L., Intel, April 2016.
-    [Part 0: Preface](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface)
+    -   [Part 0: Preface](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface)
     -   [Part 1: The Beginning](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-1)
     -   [Part 2: Creating a Swapchain](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-2)
     -   [Part 3: First Triangle](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-3)
