@@ -37,6 +37,8 @@
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
+-   [List of Beginner's Guides to Vulkan](https://www.khronos.org/blog/beginners-guide-to-vulkan):
+    This list assumes some programming knowledge but not much else. 
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
 
