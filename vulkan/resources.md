@@ -40,13 +40,16 @@
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
 
--   [Khronos C++ Wrapper:](https://github.com/KhronosGroup/Vulkan-Hpp/blob/master/README.md)
+-   [Khronos C++ Wrapper](https://github.com/KhronosGroup/Vulkan-Hpp/blob/master/README.md):
     Originally a side project of a member of the NVIDIA workstation graphics team,
     this C++ wrapper gives a safer interface than the raw C API,
     some help with RAII for API objects, and optional exceptions.
+-   [ARM Mali PerfDoc](https://github.com/ARM-software/perfdoc):
+    A standard Vulkan `Layer`, able to run over any Vulkan implementation,
+    which checks for performance pitfalls specific to ARM Mali.
 -   [VKTS (VulKan ToolS) library](https://github.com/McNopper/Vulkan),
     by [Norbert Nopper](https://twitter.com/McNopper).
--   [Vulkano](https://github.com/tomaka/vulkano), a Rust language
+-   [Vulkano](https://github.com/tomaka/vulkano): A Rust language
     wrapper for Vulkan by [Tomaka](https://www.reddit.com/user/tomaka17)
     who has [worked with Mantle](https://github.com/tomaka/mantle-demo).
 -   [OpenFrameworks Vulkan Renderer](https://forum.openframeworks.cc/t/vulkan-renderer/23800):
