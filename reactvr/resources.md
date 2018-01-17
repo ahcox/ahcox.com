@@ -6,8 +6,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/pluralsight/guides/master/images/79aea4e7-a53b-4cfa-ba54-a03dc527c004.gif)
 
-
-A thorough intro covering the topics Requirements,
+*    A thorough intro covering the topics Requirements,
 Creating the project, React VR, Pano images, 3D models, Animating the models, and Styling and Buttons.
 
 #### [How To Make React VR Apps](https://dzone.com/articles/how-to-make-react-vr-apps)
@@ -15,7 +14,7 @@ Creating the project, React VR, Pano images, 3D models, Animating the models, an
 
 ![Screenshot](https://dzone.com/storage/temp/5042335-zoom.gif)
 
-Setup, navigation between scenes, some UI animation.
+*    Setup, navigation between scenes, some UI animation.
 
 #### [How I got a React VR dev environment working with an Android Cardboard HMD](https://hackernoon.com/how-i-got-a-react-vr-dev-environment-working-with-an-android-cardboard-1fcaf00faebc)
 *By Brandon Bakker, Apr 22, 2017*
@@ -26,7 +25,7 @@ Setup, navigation between scenes, some UI animation.
 ### React VR Postmortems
 
 #### [Mint: Building (Dinosaur Galaxy) in React VR: What we learned](https://medium.com/mint-digital/building-in-react-vr-what-we-learned-779a76dde74c)
-![Completion Screenshot](dinosaur_galaxy.jpg)
+![Completion Screenshot](https://github.com/ahcox/ahcox.com/raw/master/reactvr/dinosaur_galaxy.jpg)
 
 
 
