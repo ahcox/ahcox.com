@@ -6,6 +6,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/pluralsight/guides/master/images/79aea4e7-a53b-4cfa-ba54-a03dc527c004.gif)
 
+
 A thorough intro covering the topics Requirements,
 Creating the project, React VR, Pano images, 3D models, Animating the models, and Styling and Buttons.
 
