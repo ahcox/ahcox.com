@@ -16,6 +16,17 @@ Creating the project, React VR, Pano images, 3D models, Animating the models, an
 
 *    Setup, navigation between scenes, some UI animation.
 
+#### [Bring Virtual Reality to Your Browser with ReactVR](https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1)
+*by Mirosław Ciastek, Jan 24, 2018*
+
+![Three.js torus mesh in a custom component](https://cdn-images-1.medium.com/max/1600/1*eOlg_Cswr_5b95Fb4d8vpg.png)
+
+* A web-centric introduction, ignoring that the `Three.js` backend is just one of
+many possible.
+* Shows how to use a Three.js torus mesh in a custom `View` and native modules directly,
+rather than relying on ReactVR's OBJ 3D model loader if you don't mind being tied to the
+web backend.  
+
 #### [How I got a React VR dev environment working with an Android Cardboard HMD](https://hackernoon.com/how-i-got-a-react-vr-dev-environment-working-with-an-android-cardboard-1fcaf00faebc)
 *By Brandon Bakker, Apr 22, 2017*
 
