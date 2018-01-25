@@ -32,6 +32,8 @@ web backend.
 
 ![Screenshot](https://cdn-images-1.medium.com/max/1600/1*UCD_ch8JYAjxB1vm6wVH-w.png)
 
+#### [Coding Commanders Introduction to React VR](http://www.codingcommanders.com/reactVRMain.php)
+Basic intro ... some code interspersed with very few words.
 
 ### React VR Postmortems
 
