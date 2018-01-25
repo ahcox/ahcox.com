@@ -3,6 +3,7 @@
 
 * [Stack Overflow React VR tag](https://stackoverflow.com/questions/tagged/react-vr)
 * [Unofficial Slack](https://unofficialreactvr.slack.com/)
+* [React VR subreddit](https://www.reddit.com/r/reactvr/)
 
 ### React VR Tutorials
 
