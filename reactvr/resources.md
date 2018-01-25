@@ -2,6 +2,7 @@
 ### React VR Discussion and Q&A
 
 * [Stack Overflow React VR tag](https://stackoverflow.com/questions/tagged/react-vr)
+* [Unofficial Slack](https://unofficialreactvr.slack.com/)
 
 ### React VR Tutorials
 
