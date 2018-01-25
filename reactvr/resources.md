@@ -38,6 +38,15 @@ web backend.
 #### [Mint: Building (Dinosaur Galaxy) in React VR: What we learned](https://medium.com/mint-digital/building-in-react-vr-what-we-learned-779a76dde74c)
 ![Completion Screenshot](https://github.com/ahcox/ahcox.com/raw/master/reactvr/dinosaur_galaxy.jpg)
 
+### Other React VR Articles
+
+#### [5 Tips When Using ReactVR](https://medium.com/@neo/5-tips-when-using-reactvr-890fff7c77f3)
+* How to properly select a Pano image.
+* How to easily navigate your app.
+* How to properly maintain your styles.
+* How to debug your ReactVR app.
+* How to preview your ReactVR app on a Google Cardboard.
+
 
 
 *[Edit](https://github.com/ahcox/ahcox.com/edit/master/reactvr/resources.md) [this page](http://ahcox.com/reactvr/)*.
