@@ -1,9 +1,15 @@
 
+### Using C++ Features Conservatively
+
+* [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
+  _"Orthodox C++ (sometimes referred as C+) is minimal subset of C++ that improves C, but avoids all unnecessary things from so called Modern C++. It's exactly opposite of what Modern C++ suppose to be."_
+* [Why Your C++ Should Be Simple](https://hacksoflife.blogspot.co.uk/2017/03/why-your-c-should-be-simple.html)
+
 ### C++ Debugging Resources
 * [**rr:** A deterministic **r**ecord and **r**eplay tool for C++](http://rr-project.org/).
   Allows a run of an application to be fully captured.
   This trace can then be replayed under gbd to allow debugging,
-  both forwards and efficiently backwards. 
+  both forwards and efficiently backwards.
 
 ### C++ Libraries
 * [**musl:**](https://www.musl-libc.org) A Linux libc implementation which is designed to be
@@ -17,7 +23,7 @@
   which code paths are being reached.
 * [**Brigand Metaprogramming:**](https://github.com/edouarda/brigand/blob/master/README.md)
   A macro-free template metaprogramming library which relies on C++ 11 and so compiles faster than Boost::MPL
-  while leading to less verbose client code. 
+  while leading to less verbose client code.
   [Eleven minute talk](https://www.youtube.com/watch?v=B8XSDhWx7hY).
 
 ### C++ Tools
@@ -43,7 +49,7 @@
   full-fat C++ wrapper to be compiled into library clients.
   - [Slides](http://www.slideshare.net/StefanusDuToit/cpp-con-2014-hourglass-interfaces-for-c-apis) ([PDF](https://github.com/CppCon/CppCon2014/raw/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs%20-%20Stefanus%20Du%20Toit%20-%20CppCon%202014.pdf))
   - [Code](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Hourglass%20Interfaces%20for%20C%2B%2B%20APIs/code)
-  
+
 ### C++ in the Weeds
 * `std::move`
   - [std::move Is Not Destructive Move](https://github.com/mcalabrese/cpp-stuff/wiki/std::move-Is-Not-Destructive-Move),
