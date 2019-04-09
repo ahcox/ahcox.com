@@ -34,6 +34,16 @@
 -   José Henriques
     -   [Vulkan 101](http://www.jhenriques.net/development.html)  
     -   [Shaders](http://www.jhenriques.net/vulkan_shaders.html)
+-   I Am Graphics And So Can You, by [Dustin H Land](https://www.fasterthan.life/contact)
+    - [Part 1: Introduction](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
+    - [Part 2: Intuition](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-2-intuition)
+    - [Part 3: The First 1,000](https://www.fasterthan.life/blog/2017/7/12/i-am-graphics-and-so-can-you-part-3-breaking-ground)
+      Covers getting started with Vulkan, writing all the boilerplate needed.
+    - [Part 4: Resources Rush The Stage](https://www.fasterthan.life/blog/2017/7/13/i-am-graphics-and-so-can-you-part-4-)
+      Memory allocation and resources that live in it.
+    - [Part 5: Your Pixels Are Served](https://www.fasterthan.life/blog/2017/7/22/i-am-graphics-and-so-can-you-part-5-your-pixels-are-served) Presentation, the swap chain, and managing CPU/GPU asynchrony.
+      
+    - [Part 6: Pipelines](https://www.fasterthan.life/blog/2017/7/24/i-am-graphics-and-so-can-you-part-6-pipelines)
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
