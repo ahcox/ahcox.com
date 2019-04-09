@@ -55,19 +55,22 @@
     -   [Vulkan 101](http://www.jhenriques.net/development.html)  
     -   [Shaders](http://www.jhenriques.net/vulkan_shaders.html)
 -   I Am Graphics And So Can You, by [Dustin H Land](https://www.fasterthan.life/contact)
-    - [Part 1: Introduction](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
-    - [Part 2: Intuition](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-2-intuition)
-    - [Part 3: The First 1,000](https://www.fasterthan.life/blog/2017/7/12/i-am-graphics-and-so-can-you-part-3-breaking-ground)
-      Covers getting started with Vulkan, writing all the boilerplate needed.
-    - [Part 4: Resources Rush The Stage](https://www.fasterthan.life/blog/2017/7/13/i-am-graphics-and-so-can-you-part-4-)
-      Memory allocation and resources that live in it.
-    - [Part 5: Your Pixels Are Served](https://www.fasterthan.life/blog/2017/7/22/i-am-graphics-and-so-can-you-part-5-your-pixels-are-served) Presentation, the swap chain, and managing CPU/GPU asynchrony.    
-    - [Part 6: Pipelines](https://www.fasterthan.life/blog/2017/7/24/i-am-graphics-and-so-can-you-part-6-pipelines)
+    -   [Part 1: Introduction](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1)
+    -   [Part 2: Intuition](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-2-intuition)
+    -   [Part 3: The First 1,000](https://www.fasterthan.life/blog/2017/7/12/i-am-graphics-and-so-can-you-part-3-breaking-ground) Covers getting started with Vulkan, writing all the boilerplate needed.
+    -   [Part 4: Resources Rush The Stage](https://www.fasterthan.life/blog/2017/7/13/i-am-graphics-and-so-can-you-part-4-)
+        Memory allocation and resources that live in it.
+    -   [Part 5: Your Pixels Are Served](https://www.fasterthan.life/blog/2017/7/22/i-am-graphics-and-so-can-you-part-5-your-pixels-are-served) Presentation, the swap chain, and managing CPU/GPU asynchrony.    
+    -   [Part 6: Pipelines](https://www.fasterthan.life/blog/2017/7/24/i-am-graphics-and-so-can-you-part-6-pipelines)
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
 -   [List of Beginner's Guides to Vulkan](https://www.khronos.org/blog/beginners-guide-to-vulkan):
     This list assumes some programming knowledge but not much else. 
+
+### Vulkan Articles
+-   [Appropriate use of render pass attachments](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/render_passes/render_passes_tutorial.html)
+-   [Choosing the right number of swapchain images](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/swapchain_images/swapchain_images_tutorial.html)
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
 
@@ -96,6 +99,7 @@
     [Willems](https://twitter.com/SaschaWillems2): [Vulkan examples and
     demos](https://github.com/SaschaWillems/Vulkan).
 -   [Google Android Samples](https://github.com/googlesamples/android-vulkan-tutorials)
+-   [ARM Vulkan best practice for mobile developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 
 ### Presentations on Vulkan
  - Migrating from OpenGL to Vulkan, Mark Kilgard, NVIDIA, January 19, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/Migrating_from_OpenGL_to_Vulkan.pdf)
