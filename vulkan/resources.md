@@ -61,8 +61,7 @@
       Covers getting started with Vulkan, writing all the boilerplate needed.
     - [Part 4: Resources Rush The Stage](https://www.fasterthan.life/blog/2017/7/13/i-am-graphics-and-so-can-you-part-4-)
       Memory allocation and resources that live in it.
-    - [Part 5: Your Pixels Are Served](https://www.fasterthan.life/blog/2017/7/22/i-am-graphics-and-so-can-you-part-5-your-pixels-are-served) Presentation, the swap chain, and managing CPU/GPU asynchrony.
-      
+    - [Part 5: Your Pixels Are Served](https://www.fasterthan.life/blog/2017/7/22/i-am-graphics-and-so-can-you-part-5-your-pixels-are-served) Presentation, the swap chain, and managing CPU/GPU asynchrony.    
     - [Part 6: Pipelines](https://www.fasterthan.life/blog/2017/7/24/i-am-graphics-and-so-can-you-part-6-pipelines)
 -   [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) by Philip Taylor. Read the README.md in each sub-folder.
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
