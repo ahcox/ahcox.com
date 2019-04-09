@@ -26,11 +26,31 @@
     -   [Part 4: Vertex Attributes – Buffers, Images, and Fences](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-4)
     -   [Part 5: Staging Resources – Copying Data between Buffers](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-5)
     -   [Part 6: Descriptor Sets – Using Textures in Shaders](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-6)
--   [ARM Mali Vulkan SDK Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/tutorials.html)
-    -   [Vulkan on Android](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/creatingVulkanWindow.html)
-    -   [Hello Triangle](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/helloTriangle.html)
-    -   [Multithreading in Vulkan](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/multithreading.html)
-    -   [Compute Shaders](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/basicCompute.html)
+-   [ARM Mali Vulkan SDK Tutorials](https://arm-software.github.io/vulkan-sdk/tutorials.html)
+    1.  [Overview of Vulkan](https://arm-software.github.io/vulkan-sdk/vulkan_intro.html)
+        This document will give you a brief overview of the Vulkan API.
+    2.  [Introduction to Vulkan on Android](https://arm-software.github.io/vulkan-sdk/creating_vulkan_window.html)
+        Shows you how to create a Vulkan instance, device and swapchain on Android.
+    3.  [Using Validation Layers for Debugging Applications](https://arm-software.github.io/vulkan-sdk/_validation_layer.html)
+        Introduces how to use the LunarG Validation Layers with your Vulkan application.
+    4.  [Hello Triangle](https://arm-software.github.io/vulkan-sdk/hello_triangle.html)
+        Introduction to "Hello Triangle", the most basic Vulkan application.
+    5.  [Rotating Texture](https://arm-software.github.io/vulkan-sdk/rotating_texture.html)
+        This tutorial introduces texturing and uniform buffers.
+    6.  [Multithreading in Vulkan](https://arm-software.github.io/vulkan-sdk/multithreading.html)
+        Shows you how to use Vulkan to draw a scene using multiple CPU threads.
+    7.  [Introduction to Compute Shaders in Vulkan](https://arm-software.github.io/vulkan-sdk/basic_compute.html)
+        Shows you how to use compute shaders in Vulkan.
+    8.  [Multisampling in Vulkan](https://arm-software.github.io/vulkan-sdk/multisampling.html)
+        This document will give you an introduction to efficiently use multisampling in Vulkan.
+    9.  [Spinning Cube with Depth Testing and Push Constants](https://arm-software.github.io/vulkan-sdk/spinning_cube.html)
+        This tutorial introduces depth testing and push constants.
+    10.  [Deferring shading with Multipass](https://arm-software.github.io/vulkan-sdk/multipass.html)
+        Introduces Vulkan Multipass, which enables highly efficient deferred shading on Mali GPUs.
+    11.  [Adaptive Scalable Texture Compression (ASTC) with ARM Mali](https://arm-software.github.io/vulkan-sdk/_a_s_t_c.html)
+        Introduces how to use the ASTC compression standard for textures in Vulkan.
+    12.  [Mipmapping in Vulkan](https://arm-software.github.io/vulkan-sdk/mipmapping.html)
+        Introduces how to use mipmaps and how to generate them from a source image.
 -   José Henriques
     -   [Vulkan 101](http://www.jhenriques.net/development.html)  
     -   [Shaders](http://www.jhenriques.net/vulkan_shaders.html)
