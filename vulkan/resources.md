@@ -71,6 +71,8 @@
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
 
+-   [ARM Mali Vulkan SDK for Android](https://github.com/ARM-software/vulkan-sdk)
+    (Documentation [here](https://arm-software.github.io/vulkan-sdk/index.html))
 -   [Khronos C++ Wrapper](https://github.com/KhronosGroup/Vulkan-Hpp/blob/master/README.md):
     Originally a side project of a member of the NVIDIA workstation graphics team,
     this C++ wrapper gives a safer interface than the raw C API,
