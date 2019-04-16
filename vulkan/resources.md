@@ -76,6 +76,9 @@
 
 -   [ARM Mali Vulkan SDK for Android](https://github.com/ARM-software/vulkan-sdk)
     (Documentation [here](https://arm-software.github.io/vulkan-sdk/index.html))
+-   [Simplified Vulkan Synchronization](https://github.com/Tobski/simple_vulkan_synchronization/):
+    Exposes 40 distinct usage types of pipeline barriers and events, and a couple
+    of options for handling image layouts. The aim is to cover 99% of cases.
 -   [Khronos C++ Wrapper](https://github.com/KhronosGroup/Vulkan-Hpp/blob/master/README.md):
     Originally a side project of a member of the NVIDIA workstation graphics team,
     this C++ wrapper gives a safer interface than the raw C API,
