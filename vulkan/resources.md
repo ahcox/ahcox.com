@@ -190,3 +190,4 @@
     it)](https://www.youtube.com/watch?v=ljeBu7-vKI4&t=1m32s)
 
 [Edit this resource list](https://github.com/ahcox/ahcox.com/edit/master/vulkan/resources.md).
+[View it](http://ahcox.com/vulkan/).
