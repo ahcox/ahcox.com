@@ -66,7 +66,14 @@
     -   [Creating a Device](https://github.com/philiptaylor/vulkan-sxs/blob/master/01-device/README.md)
     -   [Clearing the Screen and Memory Dependencies](https://github.com/philiptaylor/vulkan-sxs/blob/master/04-clear/README.md).
 -   [List of Beginner's Guides to Vulkan](https://www.khronos.org/blog/beginners-guide-to-vulkan):
-    This list assumes some programming knowledge but not much else. 
+    This list assumes some programming knowledge but not much else.
+
+#### Vulkan Ray Tracing Tutorials
+-   [NVIDIA Vulkan Ray Tracing Tutorial](https://developer.nvidia.com/rtx/raytracing/vkray) by Martin-Karl Lefrançois and Pascal Gautron:
+    Goes through everything required to adapt a simple rasterized Vulkan example to be ray traced with
+    the VK_NV_ray_tracing extension.
+    The tutorial comes with some helper code documented [here](https://developer.nvidia.com/rtx/raytracing/vkray_helpers).
+
 
 ### Vulkan Articles
 -   [Appropriate use of render pass attachments](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/render_passes/render_passes_tutorial.html)
