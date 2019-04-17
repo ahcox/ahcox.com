@@ -144,6 +144,11 @@
     Menzel](https://twitter.com/renderpipeline)).
 -   jcoder58's [Vulkan Resources](https://github.com/jcoder58/VulkanResources).
 
+
+
+
+-------------------------------------------------------------------------------
+
 ### Prerelease Information
 -   *[PRERELEASE]*Loads of code and information in these SIGGRAPH 2015
     Presentations - An Overview of Next-Generation Graphics APIs, "This
@@ -196,6 +201,10 @@
 -   [March 2015, Oxide Games Show Their Game, Engine, and a only a tiny
     bit about Vulkan (basically just that they are using
     it)](https://www.youtube.com/watch?v=ljeBu7-vKI4&t=1m32s)
+
+
+
+-------------------------------------------------------------------------------
 
 [Edit this resource list](https://github.com/ahcox/ahcox.com/edit/master/vulkan/resources.md).
 [View it](http://ahcox.com/vulkan/).
