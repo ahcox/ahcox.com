@@ -76,6 +76,7 @@
 
 
 ### Vulkan Articles
+-   [Machine Learning Acceleration in Vulkan with Cooperative Matrices](https://devblogs.nvidia.com/machine-learning-acceleration-vulkan-cooperative-matrices/) _[2019-04-16]_: Introduces the `VK_NV_cooperative_matrix` extension.
 -   [Appropriate use of render pass attachments](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/render_passes/render_passes_tutorial.html)
 -   [Choosing the right number of swapchain images](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/swapchain_images/swapchain_images_tutorial.html)
 
