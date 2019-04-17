@@ -116,6 +116,15 @@
  - C++ API Layer on top of Vulkan, Markus Tavenrath, NVIDIA, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/Vulkan_C++.pdf)
  - High Performance Vulkan: Lessons Learned from Source 2, John McDonald, Valve, 2016. [PDF](http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/High_Performance_Vulkan.pdf)
  - Vulkan Overview and Roadmap for NVIDIA GPUs, Piers Daniell, NVIDIA, January 19 2016. [PDF](https://developer.nvidia.com/sites/default/files/akamai/gameworks/VulkanDevDaypdaniel.pdf)
+ 
+### Vulkan Videos
+-   [Practical Real-Time Ray Tracing With RTX](https://devblogs.nvidia.com/practical-real-time-ray-tracing-rtx/)
+    -  [Part 1](https://www.youtube.com/watch?v=ZsGlv5jQBeQ)
+    -  [Part 2](https://www.youtube.com/watch?v=JabCSGOXxUI)
+    -  [Part 3](https://www.youtube.com/watch?v=cANCbn8D7lw)
+    -  [Part 4](https://www.youtube.com/watch?v=ZKuHxjePbEk)
+    -  [Part 5](https://www.youtube.com/watch?v=oXG_wkoOkTY)
+    -  [Part 6](https://www.youtube.com/watch?v=4XbNSrqVHaE)
 
 ### Projects Using Vulkan
 -   [Hatchit](https://github.com/thirddegree/Hatchit): Open Source 3D Game Engine rendering through Vulkan and DX12. [Vukan Headers](https://github.com/thirddegree/HatchitGraphics/tree/master/include/vulkan). [Vulkan Implementation Code](https://github.com/thirddegree/HatchitGraphics/tree/master/source/vulkan).
