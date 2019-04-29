@@ -79,6 +79,12 @@
 -   [Machine Learning Acceleration in Vulkan with Cooperative Matrices](https://devblogs.nvidia.com/machine-learning-acceleration-vulkan-cooperative-matrices/) _[2019-04-16]_: Introduces the `VK_NV_cooperative_matrix` extension.
 -   [Appropriate use of render pass attachments](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/render_passes/render_passes_tutorial.html)
 -   [Choosing the right number of swapchain images](https://arm-software.github.io/vulkan_best_practice_for_mobile_developers/samples/swapchain_images/swapchain_images_tutorial.html)
+-   A Tour of Granite's Vulkan Backend, by [Hans-Kristian Arntzen ](http://themaister.net/blog/)
+    - [Part1](http://themaister.net/blog/2019/04/14/a-tour-of-granites-vulkan-backend-part-1/)
+    - [Part2](http://themaister.net/blog/2019/04/17/a-tour-of-granites-vulkan-backend-part-2/)
+    - [Part3](http://themaister.net/blog/2019/04/20/a-tour-of-granites-vulkan-backend-part-3/)
+    - [Part4](http://themaister.net/blog/2019/04/23/a-tour-of-granites-vulkan-backend-part-4/)
+    - [Part5](http://themaister.net/blog/2019/04/27/a-tour-of-granites-vulkan-backend-part-5/)
 
 ### Vulkan Wrappers, Helpers, and Utility Libraries
 
